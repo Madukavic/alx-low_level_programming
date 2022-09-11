@@ -1,5 +1,6 @@
 #include <stdio.h>
- /**
+
+/**
  * main - Prints the size of many var types
  *
  * Descrition: using main function
