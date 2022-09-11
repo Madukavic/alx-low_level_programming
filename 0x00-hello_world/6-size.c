@@ -2,9 +2,10 @@
  /**
  * main - Prints the size of many var types
  *
+ * Descrition: using main function
  * Return: Always 0 (Success)
  */
-int main (void)
+int main(void)
 {
 char a;
 int b;
