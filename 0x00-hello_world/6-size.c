@@ -5,7 +5,7 @@
  * Descrition: using main function
  * Return: Always 0 (Success)
  */
-int (void)
+ int main(void)
 {
 char a;
 int b;
