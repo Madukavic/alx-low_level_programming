@@ -3,7 +3,7 @@
 /**
  * main - print sum of even suits fibonacci elements
  * fibonacci suits number
- * Returm: return 0
+ * Return: return 0
  */
 int main(void)
 {
