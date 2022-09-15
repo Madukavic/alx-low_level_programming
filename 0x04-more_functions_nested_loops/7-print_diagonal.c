@@ -7,7 +7,7 @@
  * Return: returns nothing
  */
 
-void print_diagonal(int c)
+void print_diagonal(int n)
 {
 int len, space;
 
