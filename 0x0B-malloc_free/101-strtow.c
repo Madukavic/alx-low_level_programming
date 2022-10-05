@@ -54,7 +54,6 @@ int num_words(char *str)
  *
  * Return: pointer to the array of splitted words
  */
-
 char **strtow(char *str)
 {
 	char **split;
@@ -97,5 +96,5 @@ char **strtow(char *str)
 		return (split);
 	}
 	else
-		return (NULL);
+	        return (NULL);
 }
