@@ -96,5 +96,5 @@ char **strtow(char *str)
 		return (split);
 	}
 	else
-	        return (NULL);
+	return (NULL);
 }
