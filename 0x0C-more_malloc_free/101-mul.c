@@ -114,7 +114,7 @@ int main(int argc, char *argv[])
 
 	if (argc != 3 || check_for_digits(argv))
 	{
-		for (ti - 0; e[ti]; ti++)
+		for (ti = 0; e[ti]; ti++)
 			_putchar(e[ti]);
 		exit(98);
 	}
